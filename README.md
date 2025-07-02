@@ -25,8 +25,8 @@ Minimalistic Node.js wrapper for the DigiSIM API - designed for seamless SIM man
    ```
 
 3. **Example Script**
-
-   - Check [`example.js`](./example.js) for full usage flow and endpoint demonstration.
+   * Check [`example.js`](./example.js) for full usage flow and endpoint demonstration.
+   * Check [`cli.js`](./cli.js) for an interactive CLI usage example with server/country/operator/product/order selection and order ID extraction.
 
 ---
 
